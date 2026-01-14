@@ -79,3 +79,5 @@ sherpa-onnx-wasm-simd-v1.12.15-zh-cantonese-en-asr-paraformer.tar.bz2	4086f9fb5a
 sherpa-onnx-wasm-simd-v1.12.15-zh-en-asr-paraformer.tar.bz2	d6ecd5e4ed3d33e25d53e299ca144aa4e826ba445317ae31c93f44228538f4d6
 sherpa-onnx-wasm-simd-v1.12.15-zh-en-asr-zipformer.tar.bz2	c2528ed325f2bd3034dbb2160de4b59b1f49ab6b4d8b9f516b543bfe1ffa30a8
 sherpa_onnx-v1.12.15.har	dc868d4f819f97571452b5a4cb2d951b17a9efdb4feecc0de25b6b2ed1533ec5
+sherpa-onnx-v1.12.21-osx-universal2-shared.tar.bz2	484ee995803eb88fef2a2e9732b82c13c48495574c3c5778b560cacfe2de7bb6
+sherpa-onnx-v1.12.22-onnxruntime-1.14.1-osx-universal2-shared.tar.bz2	531ddbb7638a45724ec7849475acde6033024ef040aba8bc9d962fd389a8dea9
