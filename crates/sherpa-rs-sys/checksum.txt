@@ -81,3 +81,5 @@ sherpa-onnx-wasm-simd-v1.12.15-zh-en-asr-zipformer.tar.bz2	c2528ed325f2bd3034dbb
 sherpa_onnx-v1.12.15.har	dc868d4f819f97571452b5a4cb2d951b17a9efdb4feecc0de25b6b2ed1533ec5
 sherpa-onnx-v1.12.21-osx-universal2-shared.tar.bz2	484ee995803eb88fef2a2e9732b82c13c48495574c3c5778b560cacfe2de7bb6
 sherpa-onnx-v1.12.22-onnxruntime-1.14.1-osx-universal2-shared.tar.bz2	531ddbb7638a45724ec7849475acde6033024ef040aba8bc9d962fd389a8dea9
+sherpa-onnx-v1.12.22-onnxruntime-1.16.2-osx-universal2-shared.tar.bz2	1b1f85a8daa2c39df96855a2df7745ffb0fe02e7cdbb5259842f6e78949477e4
+sherpa-onnx-v1.12.22-osx-universal2-static.tar.bz2	260d68cd422175cfb9c5924b70f96f44de9e01cbc87fa332958fdefd7791229a
